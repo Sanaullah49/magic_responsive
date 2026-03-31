@@ -1,0 +1,19 @@
+name: magic_responsive
+description: Zero-boilerplate, intelligent responsive layouts for Flutter. Container-query driven UI that auto-adapts without MediaQueries or LayoutBuilders.
+version: 0.0.1
+homepage: https://github.com/Sanaullah49/magic_responsive
+
+environment:
+  sdk: ^3.11.3
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
