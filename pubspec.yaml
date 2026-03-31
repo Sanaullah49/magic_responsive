@@ -2,6 +2,17 @@ name: magic_responsive
 description: Zero-boilerplate, intelligent responsive layouts for Flutter. Container-query driven UI that auto-adapts without MediaQueries or LayoutBuilders.
 version: 0.0.1
 homepage: https://github.com/Sanaullah49/magic_responsive
+repository: https://github.com/Sanaullah49/magic_responsive
+issue_tracker: https://github.com/Sanaullah49/magic_responsive/issues
+topics:
+  - responsive-layout
+  - adaptive-ui
+  - flutter-widgets
+  - layout
+  - widgets
+screenshots:
+  - description: Animated preview of MagicFlex, MagicGrid, and SmartContainer adapting across screen sizes.
+    path: assets/readme/demo-preview.gif
 
 environment:
   sdk: ^3.11.3

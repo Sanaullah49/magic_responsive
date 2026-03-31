@@ -3,6 +3,10 @@
 `magic_responsive` is a lightweight Flutter package for adaptive layouts that
 respond to the space they actually get, not a pile of app-wide breakpoints.
 
+[![Watch the demo](assets/readme/demo-preview.gif)](https://github.com/Sanaullah49/magic_responsive/blob/main/assets/readme/demo.mp4)
+
+Watch the full 40-second demo: [demo.mp4](https://github.com/Sanaullah49/magic_responsive/blob/main/assets/readme/demo.mp4)
+
 Instead of wiring `MediaQuery`, `LayoutBuilder`, and hard-coded width checks
 into every screen, you describe the shape you want:
 
